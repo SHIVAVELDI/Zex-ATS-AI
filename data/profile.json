@@ -1,0 +1,25 @@
+{
+  "name": "Shiva Kumar Veldi",
+  "title": "Software Engineer & AI Specialist",
+  "tagline": "Building innovative solutions with modern technology",
+  "profileImage": "assets/profile.jpg",
+  "resume": "assets/resume.pdf",
+  "socialLinks": [
+    { "name": "GitHub", "url": "https://github.com/SHIVAVELDI", "icon": "fab fa-github" },
+    { "name": "LinkedIn", "url": "https://linkedin.com/in/shivaveldi", "icon": "fab fa-linkedin" }
+  ],
+  "aboutSummary": "I build web applications and AI systems that solve real problems. I enjoy working across the full stack and learning new technologies.",
+  "highlights": ["Full-stack web development", "Machine learning & AI", "System design"],
+  "values": ["Clarity", "Pragmatism", "Continuous learning"],
+  "technicalSkills": ["JavaScript", "Node.js", "Python", "React"],
+  "toolsSkills": ["Git", "Docker", "AWS"],
+  "softSkills": ["Communication", "Ownership", "Mentorship"],
+  "experience": [],
+  "projects": [],
+  "contact": {
+    "email": "xuser@idyll-systems.ai",
+    "phone": "+1-XXX-XXX-XXXX",
+    "location": "Tech Hub, Innovation City"
+  },
+  "footerName": "Shiva Kumar Veldi"
+}

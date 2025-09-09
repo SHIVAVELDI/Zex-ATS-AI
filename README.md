@@ -1,5 +1,7 @@
 https://shivaveldi.github.io/Zex-ATS-AI/
 
+https://shivaveldi.netlify.app/
+
 # Shiva Kumar Veldi - Dynamic Portfolio Website
 
 This is a dynamically generated portfolio website created from resume data.
